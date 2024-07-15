@@ -9,7 +9,7 @@
 // Input: arr1[] = [1, 2, 5], arr2[] = [2, 4, 15]
 // Output: false
 // Explanation: arr1[] and arr2[] have only one common value.
-
+import java.util.*;
 class Solution {
     // Function to check if two arrays are equal or not.
     public static boolean check(int[] arr1, int[] arr2) {
